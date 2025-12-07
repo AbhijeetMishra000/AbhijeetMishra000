@@ -3,7 +3,6 @@
 
 <img align="right" alt="GIF" src="https://media4.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=6c09b9520lhfpr9vs7fk1kd1i5b6lmpuprmd195qtxr5q78q&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeetmishra000&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeetmishra000" /> </p>
 
 - 🌱 I’m currently learning **to code using DSA in C, C++ ,JAVA and JS.**
 
